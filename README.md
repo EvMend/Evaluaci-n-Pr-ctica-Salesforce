@@ -123,6 +123,7 @@ La key content-Type es la propiedad de cabecera (header) usada para indicar el t
 
 
 
+
                                                        EJERCICIO 3.
 
 1)	
@@ -141,6 +142,7 @@ La key content-Type es la propiedad de cabecera (header) usada para indicar el t
 
 
 
+
                                                        EJERCICIO 5.
 1.	Lead: es un potencial cliente interesado en comprar un producto o contratar un servicio. Datos que almacena: Address, Company, Description, Email, LastActivityDate, entre otros.
 2.	Account: compañías o personas individuales con las que se hace negocio. Pueden ser clientes, competidores y socios. Datos que almacena: BillingAddress, LastActivityDate, NumberOfEmployees, etc.
@@ -154,7 +156,8 @@ La key content-Type es la propiedad de cabecera (header) usada para indicar el t
 10.	Article: este objeto se puede utilizar para asociar un artículo con categorías de datos de un grupo de categorías de datos o para consultar las selecciones de categorías para un artículo. Datos que almacena: DataCategoryName, ParentId, etc.
             
             
-            https://github.com/EvMend/Evaluaci-n-Pr-ctica-Salesforce/blob/main/RelacionesObjetos.png
+ https://github.com/EvMend/Evaluaci-n-Pr-ctica-Salesforce/blob/main/RelacionesObjetos.png
+ 
           
           
 
