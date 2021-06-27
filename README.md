@@ -171,7 +171,7 @@ EJERCICIO 5.
 10.	Article: este objeto se puede utilizar para asociar un artículo con categorías de datos de un grupo de categorías de datos o para consultar las selecciones de categorías para un artículo. Datos que almacena: DataCategoryName, ParentId, etc.
             
             
-            !(https://github.com/EvMend/Evaluaci-n-Pr-ctica-Salesforce/blob/main/RelacionesObjetos.png)
+            https://github.com/EvMend/Evaluaci-n-Pr-ctica-Salesforce/blob/main/RelacionesObjetos.png
           
           
 
