@@ -177,6 +177,9 @@ B.	Agregar un campo al objeto Contact llamado idvirtualdreams de tipo texto de 2
 C. Autorización de dirección EndPoint.
 ![alt text](https://github.com/EvMend/EvaluacionPractica-Salesforce-VirtualDreams/blob/main/SetupSitioWebRemoto.png)
 
+- Callout Class: https://github.com/EvMend/EvaluacionPractica-Salesforce-VirtualDreams/blob/main/Ejercicio6Callout
+- Trigger: https://github.com/EvMend/EvaluacionPractica-Salesforce-VirtualDreams/blob/main/Ejercicio6Trigger 
+
                                                        EJERCICIO 7.
 
           
