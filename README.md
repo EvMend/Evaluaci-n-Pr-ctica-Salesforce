@@ -161,8 +161,21 @@ https://trailblazer.me/id/evamendez
 ![alt text](https://github.com/EvMend/Evaluaci-n-Pr-ctica-Salesforce/blob/main/RelacionesObjetos.png)
  
           
-          
 
+                                                       EJERCICIO 6.
+
+A.	Consulta de ID haciendo un GET con POSTMAN a este WS:
+https://vdfactory-234311.firebaseio.com/contacts.json
+
+
+![alt text](https://github.com/EvMend/EvaluacionPractica-Salesforce-VirtualDreams/blob/main/GETPostman.jpg)
+
+B.	Agregar un campo al objeto Contact llamado idvirtualdreams de tipo texto de 255 caracteres. 
+
+![alt text](https://github.com/EvMend/EvaluacionPractica-Salesforce-VirtualDreams/blob/main/CampoIdVD.png)
+
+C. Autorización de dirección EndPoint.
+![alt text](https://github.com/EvMend/EvaluacionPractica-Salesforce-VirtualDreams/blob/main/SetupSitioWebRemoto.png)
 
                                                        EJERCICIO 7.
 
