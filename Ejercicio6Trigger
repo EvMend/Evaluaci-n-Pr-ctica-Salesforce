@@ -1,0 +1,19 @@
+trigger IdVDTrigger on Contact (after insert,after update) {
+    
+    IdVDCalloutClass.makeCallout();
+    String name='';
+        String email='';
+    for(Contact con : [SELECT idvirtualdreams__c FROM Contact WHERE Id IN:Trigger.New]) {
+        
+        if(con.idvirtualdreams__c!=null) { 
+        Trigger.oldMap.get(con.idvirtualdreams__c);
+        String name = string.valueof(con.get('name'));
+            System.debug('name:'+con.name);
+        String email = string.valueof(con.get('email'));
+            System.debug('email:'+con.email);
+        
+            
+        }}
+    
+
+}
