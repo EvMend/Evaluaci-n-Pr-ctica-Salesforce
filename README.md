@@ -141,7 +141,9 @@ La key content-Type es la propiedad de cabecera (header) usada para indicar el t
 
 
 
+                                                       EJERCICIO 4.
 
+https://trailblazer.me/id/evamendez
 
                                                        EJERCICIO 5.
 1.	Lead: es un potencial cliente interesado en comprar un producto o contratar un servicio. Datos que almacena: Address, Company, Description, Email, LastActivityDate, entre otros.
